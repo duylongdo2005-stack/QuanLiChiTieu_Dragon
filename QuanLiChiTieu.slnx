@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="QuanLiChiTieu.BLL/QuanLiChiTieu.BLL.csproj" />
+  <Project Path="QuanLiChiTieu.DLL/QuanLiChiTieu.DAL.csproj" />
+  <Project Path="QuanLiChiTieu/QuanLiChiTieu.csproj" />
+</Solution>

@@ -1,0 +1,11 @@
+D:\QuanLiChiTieu\QuanLiChiTieu.BLL\bin\Debug\net8.0\QuanLiChiTieu.BLL.deps.json
+D:\QuanLiChiTieu\QuanLiChiTieu.BLL\bin\Debug\net8.0\QuanLiChiTieu.BLL.dll
+D:\QuanLiChiTieu\QuanLiChiTieu.BLL\bin\Debug\net8.0\QuanLiChiTieu.BLL.pdb
+D:\QuanLiChiTieu\QuanLiChiTieu.BLL\obj\Debug\net8.0\QuanLiChiTieu.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLiChiTieu\QuanLiChiTieu.BLL\obj\Debug\net8.0\QuanLiChiTieu.BLL.AssemblyInfoInputs.cache
+D:\QuanLiChiTieu\QuanLiChiTieu.BLL\obj\Debug\net8.0\QuanLiChiTieu.BLL.AssemblyInfo.cs
+D:\QuanLiChiTieu\QuanLiChiTieu.BLL\obj\Debug\net8.0\QuanLiChiTieu.BLL.csproj.CoreCompileInputs.cache
+D:\QuanLiChiTieu\QuanLiChiTieu.BLL\obj\Debug\net8.0\QuanLiChiTieu.BLL.dll
+D:\QuanLiChiTieu\QuanLiChiTieu.BLL\obj\Debug\net8.0\refint\QuanLiChiTieu.BLL.dll
+D:\QuanLiChiTieu\QuanLiChiTieu.BLL\obj\Debug\net8.0\QuanLiChiTieu.BLL.pdb
+D:\QuanLiChiTieu\QuanLiChiTieu.BLL\obj\Debug\net8.0\ref\QuanLiChiTieu.BLL.dll

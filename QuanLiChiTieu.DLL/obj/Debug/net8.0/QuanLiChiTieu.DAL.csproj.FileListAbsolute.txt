@@ -1,0 +1,14 @@
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\bin\Debug\net8.0\QuanLiChiTieu.DAL.deps.json
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\bin\Debug\net8.0\QuanLiChiTieu.DAL.runtimeconfig.json
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\bin\Debug\net8.0\QuanLiChiTieu.DAL.dll
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\bin\Debug\net8.0\QuanLiChiTieu.DAL.pdb
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\obj\Debug\net8.0\QuanLiChiTieu.DAL.csproj.AssemblyReference.cache
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\obj\Debug\net8.0\QuanLiChiTieu.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\obj\Debug\net8.0\QuanLiChiTieu.DAL.AssemblyInfoInputs.cache
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\obj\Debug\net8.0\QuanLiChiTieu.DAL.AssemblyInfo.cs
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\obj\Debug\net8.0\QuanLiChiTieu.DAL.csproj.CoreCompileInputs.cache
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\obj\Debug\net8.0\QuanLiChiTieu.DAL.dll
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\obj\Debug\net8.0\refint\QuanLiChiTieu.DAL.dll
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\obj\Debug\net8.0\QuanLiChiTieu.DAL.pdb
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\obj\Debug\net8.0\QuanLiChiTieu.DAL.genruntimeconfig.cache
+D:\QuanLiChiTieu\QuanLiChiTieu.DLL\obj\Debug\net8.0\ref\QuanLiChiTieu.DAL.dll
