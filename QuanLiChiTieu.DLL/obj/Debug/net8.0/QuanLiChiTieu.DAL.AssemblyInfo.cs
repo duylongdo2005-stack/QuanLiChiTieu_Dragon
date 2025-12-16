@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuanLiChiTieu.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca021213d79e28f0ea9fc35881e242d8deba759a")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuanLiChiTieu.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuanLiChiTieu.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
